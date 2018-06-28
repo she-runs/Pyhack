@@ -4,7 +4,7 @@
 """Tests for `PythonHackathon` package."""
 
 import pytest
-from PythonHackathon import *
+from PythonHackathon.zscores import *
 
 class TestPythonHackathon:
 
